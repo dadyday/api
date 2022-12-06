@@ -11,5 +11,8 @@
             "email": "hheyne@micropayment.de"
         }
     ],
-    "require": {}
+    "require": {
+        "doctrine/orm": "^2.13",
+        "symfony/cache": "^5.4"
+    }
 }
