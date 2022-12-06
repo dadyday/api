@@ -1,0 +1,15 @@
+{
+    "name": "hheyne/api",
+    "autoload": {
+        "psr-4": {
+            "Hheyne\\Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hheyne",
+            "email": "hheyne@micropayment.de"
+        }
+    ],
+    "require": {}
+}
